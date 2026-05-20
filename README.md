@@ -1,57 +1,120 @@
-👋 Hi, I'm Khushi Saloni Singh
+<div align="center">
 
-🎓 Technical Student at National Skill Training Institute (NSTI)
-📘 ITI Graduate in IoT & Smart Healthcare
-💻 Passionate about Python, AI, Machine Learning, and Data Analysis
+# 👋 Hi, I'm Khushi Saloni Singh
 
-🚀 About Me
+### 🎓 Technical Student | 🤖 AI & ML Enthusiast | 💻 Python Developer
 
-I am a technical student with strong interest in:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Enthusiast;IoT+%26+Smart+Healthcare+Graduate;Data+Analysis+Learner" alt="Typing SVG" />
 
-Artificial Intelligence
-Machine Learning
-Data Science
-IoT & Smart Healthcare
-Python Programming
-Data Visualization
+</div>
 
-I enjoy learning new technologies and building smart solutions using AI and Python tools.
+---
 
-🛠️ Skills & Technologies
-💻 Programming Language
-Python
-📚 Python Libraries
-NumPy
-Pandas
-Matplotlib (matplotlib.pyplot)
-SpaCy
-TensorFlow
-🤖 AI & ML Tools
-Machine Learning
-Deep Learning
-NLP (Natural Language Processing)
-Data Analysis
-Data Visualization
-📂 Projects
+# 🚀 About Me
 
-🔹 AI & Machine Learning Projects
-🔹 Data Analysis Projects
-🔹 IoT Smart Healthcare Projects
-🔹 Python Automation Projects
+🎓 Technical student at NSTI  
+📘 ITI Graduate in IoT & Smart Healthcare  
+💡 Passionate about Artificial Intelligence, Machine Learning, and Python Development  
+📊 Interested in Data Analysis, NLP, and Smart Technologies  
+🌱 Always learning new AI tools and modern technologies  
 
-📈 Currently Learning
-Advanced Machine Learning
-Deep Learning Models
-Computer Vision
-Generative AI
-Git & GitHub
-🌐 Connect With Me
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
-✨ Quote
+---
 
-“Technology is best when it brings learning and innovation together.”
+# 🛠️ Tech Stack
 
-⭐ Thank You for Visiting My Profile!
+## 💻 Programming Language
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+## 📚 Libraries & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge"/>
+</p>
+
+---
+
+# 🤖 AI & Data Skills
+
+✔ Machine Learning  
+✔ Deep Learning  
+✔ Natural Language Processing (NLP)  
+✔ Data Visualization  
+✔ Data Analysis  
+✔ Python Automation  
+✔ AI Tools for Python Development  
+
+---
+
+# 📂 Projects
+
+🚀 AI & Machine Learning Projects  
+📊 Data Analysis Projects  
+🏥 IoT Smart Healthcare Projects  
+🐍 Python Mini Projects  
+📈 Visualization Dashboards  
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Generative AI
+- Deep Learning
+- Computer Vision
+- Git & GitHub
+- Advanced Python Libraries
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+✨ ITI Graduate in IoT & Smart Healthcare  
+✨ Technical Student at NSTI  
+✨ Passionate AI & Python Learner  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+# ✨ Motto
+
+> “Learning never stops in the world of technology.”
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+</div>
 
 Feel free to explore my repositories and projects.
