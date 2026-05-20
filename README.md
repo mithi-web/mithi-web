@@ -1,16 +1,57 @@
-## Hi there 👋
+👋 Hi, I'm Khushi Saloni Singh
 
-<!--
-**mithi-web/mithi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Technical Student at National Skill Training Institute (NSTI)
+📘 ITI Graduate in IoT & Smart Healthcare
+💻 Passionate about Python, AI, Machine Learning, and Data Analysis
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a technical student with strong interest in:
+
+Artificial Intelligence
+Machine Learning
+Data Science
+IoT & Smart Healthcare
+Python Programming
+Data Visualization
+
+I enjoy learning new technologies and building smart solutions using AI and Python tools.
+
+🛠️ Skills & Technologies
+💻 Programming Language
+Python
+📚 Python Libraries
+NumPy
+Pandas
+Matplotlib (matplotlib.pyplot)
+SpaCy
+TensorFlow
+🤖 AI & ML Tools
+Machine Learning
+Deep Learning
+NLP (Natural Language Processing)
+Data Analysis
+Data Visualization
+📂 Projects
+
+🔹 AI & Machine Learning Projects
+🔹 Data Analysis Projects
+🔹 IoT Smart Healthcare Projects
+🔹 Python Automation Projects
+
+📈 Currently Learning
+Advanced Machine Learning
+Deep Learning Models
+Computer Vision
+Generative AI
+Git & GitHub
+🌐 Connect With Me
+GitHub: https://github.com/yourusername
+LinkedIn: https://linkedin.com/in/yourprofile
+✨ Quote
+
+“Technology is best when it brings learning and innovation together.”
+
+⭐ Thank You for Visiting My Profile!
+
+Feel free to explore my repositories and projects.
