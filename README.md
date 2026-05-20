@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Khushi Saloni Singh
+# 👋 Hi, I'm Khushi Kumari
 
 ### 🎓 Technical Student | 🤖 AI & ML Enthusiast | 💻 Python Developer
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?mithi-web&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
